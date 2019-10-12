@@ -1,0 +1,6 @@
+# .travis.yml
+
+language: generic
+
+script:
+- ./build.sh
