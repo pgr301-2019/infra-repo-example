@@ -2,5 +2,7 @@
 
 language: generic
 
+install:
+
 script:
-- ./build.sh
+  - ./build.sh
