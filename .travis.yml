@@ -1,6 +1,6 @@
-# .travis.yml
 
-language: python
+
+language: generic
 
 install:
 
