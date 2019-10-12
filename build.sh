@@ -3,6 +3,7 @@ wget https://releases.hashicorp.com/terraform/0.12.10/terraform_0.12.10_linux_am
 unzip terraform_0.12.10_linux_amd64.zip
 chmod +x terraform
 
+cd infra/terraform
 ./terraform init
 ./terraform validate
 
