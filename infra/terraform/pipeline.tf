@@ -22,7 +22,7 @@ resource "heroku_addon" "db_stage" {
 }
 
 resource "heroku_app" "production" {
-  name   = "${var.app_prefix}-app-production"
+  name   = "${var.app_prefix}-app-prod"
   region = "eu"
 }
 
