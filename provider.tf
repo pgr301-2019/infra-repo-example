@@ -7,6 +7,6 @@ terraform {
 }
 
 provider "statuscake" {
-  apikey = ""
-  username = ""
+  version = "1.0.0"
+  username = "glennbechgmailcom"
 }
