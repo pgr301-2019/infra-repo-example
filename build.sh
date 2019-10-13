@@ -6,6 +6,7 @@ chmod +x terraform
 
 ./terraform init
 ./terraform validate
+./terraform plan
 
 if [[ $TRAVIS_BRANCH == 'master' ]]
 then
