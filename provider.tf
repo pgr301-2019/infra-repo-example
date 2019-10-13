@@ -5,3 +5,6 @@ terraform {
     region = "eu-north-1"
   }
 }
+
+provider "statuscake" {
+}
