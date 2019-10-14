@@ -8,5 +8,5 @@ terraform {
 
 provider "statuscake" {
   version = "1.0.0"
-  username = "glennbechgmailcom"
+  username = "postglennbechno"
 }
